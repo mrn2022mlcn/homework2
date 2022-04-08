@@ -55,6 +55,11 @@ body {
     color: var(--accent-color); 
 }
 
+.current:hover,
+.current:focus {
+    color: var(--accent-color);
+}
+
 /* Герой */
 
 .hero .hero-btn {
